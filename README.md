@@ -1,16 +1,21 @@
-# nosso_primeiro_projeto
+<h1>Flutter: Applying Data Persistence</h1>
 
-A new Flutter project.
+Take this Flutter course and:
 
-## Getting Started
+- Learn how to make a personal organization application that allows you to save, edit and delete user tasks
+- Know and apply internal persistence, understanding its importance in a project
+- Learn how to implement a database to save information on a mobile device
+- Get to know and use SQFLite, one of the most used databases by the dev community
+- Implement the four CRUD operations in one app: read, create, edit and delete data
+- ractice important Flutter concepts and techniques such as the FutureBuilder widget
+- Find out what packages are, their importance in mobile development and install one of them
 
-This project is a starting point for a Flutter application.
+Screenshot app:
 
-A few resources to get you started if this is your first Flutter project:
+<img src="app.png" alt="app">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Certificate: 'https://cursos.alura.com.br/certificate/6c6d2cea-3d57-4905-8296-757e2f77ec3e'
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="cert.png" alt="certificate">
+
+
